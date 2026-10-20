@@ -22,7 +22,7 @@
 
 ## `> sobre_mim`
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedora de software júnior, com foco em **backend**. Trabalho com **C# e ASP.NET Core** e estou expandindo minha base para o ecossistema **Java e Spring Boot**. Meu diferencial é o olhar de qualidade: escrevo código pensando em como ele será testado e mantido.
+Sou estudante de **Sistemas da Informação** e desenvolvedora de software júnior, com foco em **backend**. Trabalho com **C# e ASP.NET Core** e estou expandindo minha base para o ecossistema **Java e Spring Boot**. Meu diferencial é o olhar de qualidade: escrevo código pensando em como ele será testado e mantido.
 
 Gosto de transformar problemas em soluções práticas e aprender construindo projetos.
 
